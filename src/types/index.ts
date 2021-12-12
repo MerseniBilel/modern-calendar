@@ -3,3 +3,4 @@ export interface MemojiTypes {
   alt: string;
   className: string;
 }
+
